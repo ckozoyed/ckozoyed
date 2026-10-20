@@ -1,12 +1,12 @@
 # Welcome to My GitHub!
 
-I'm a software developer and the creator of Kristen Data Comms (KDC), a distributed communications framework developed by Kristen Software.
+I'm a software developer and the creator of Kristen Data Comms (KDC), a distributed communications framework developed by Kristen Software, LLC.
 
 My interests include software architecture, distributed systems, network communications, and building tools that simplify application development.
 
 ## Featured Project: Kristen Data Comms (KDC)
 
-Communicating Logic and Data Across Distributed Applications
+***Communicating Logic and Data Across Distributed Applications***
 
 Kristen Data Comms is a communications framework designed to simplify the development of distributed applications.
 
